@@ -1,2 +1,39 @@
-# Project exclude paths
-/cloud-provider-payment8001/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/target/
+/.settings/
+target/*
+*/target/*
+*.class 
+*.project
+*.log
+.idea
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+#####忽略提交target文件夹#####
+/target/
+*/target/
+/.idea/
+
