@@ -1,4 +1,4 @@
-package com.tiantian.springcloud.controller;
+package com.tiantian.springcloud;
 
 import com.tiantian.springcloud.entity.CommonResult;
 import com.tiantian.springcloud.entity.Payment;
